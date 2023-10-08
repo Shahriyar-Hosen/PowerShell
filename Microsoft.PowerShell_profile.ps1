@@ -18,10 +18,10 @@ Import-Module -Name Terminal-Icons
     takuya
 #>
 <#  
- montys ***
- night-owl ***
- blueish ***
- gmay *** 
+    montys ***
+    night-owl ***
+    blueish ***
+    gmay *** 
 #>
 
 # pixelrobots **
