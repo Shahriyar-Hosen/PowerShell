@@ -1,4 +1,4 @@
-# PowerShell-Terminal-OMP
+# PowerShell Terminal Oh My Posh
 
 oh-my-posh setup
 
