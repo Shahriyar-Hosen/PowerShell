@@ -5,9 +5,17 @@ oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/
 Import-Module -Name Terminal-Icons
 
 <# new 
- kushal ***
- clean-detailed ***
- if_tea ***
+    kushal
+    clean-detailed
+    if_tea
+    wholespace
+    thecyberden
+    powerlevel10k_rainbow
+    poshmon
+    atomic
+    easy-term
+    patriksvensson
+    takuya
 #>
 <#  
  montys ***
